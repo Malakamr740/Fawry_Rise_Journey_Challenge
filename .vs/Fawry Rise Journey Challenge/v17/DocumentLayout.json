@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A6031-402C-44DB-910A-E4FF55A13649}|Fawry Rise Journey Challenge.csproj|c:\\users\\malakamr740\\source\\repos\\fawry rise journey challenge\\ecommercesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A6031-402C-44DB-910A-E4FF55A13649}|Fawry Rise Journey Challenge.csproj|solutionrelative:ecommercesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A6031-402C-44DB-910A-E4FF55A13649}|Fawry Rise Journey Challenge.csproj|c:\\users\\malakamr740\\source\\repos\\fawry rise journey challenge\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A6031-402C-44DB-910A-E4FF55A13649}|Fawry Rise Journey Challenge.csproj|solutionrelative:cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A6031-402C-44DB-910A-E4FF55A13649}|Fawry Rise Journey Challenge.csproj|c:\\users\\malakamr740\\source\\repos\\fawry rise journey challenge\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A6031-402C-44DB-910A-E4FF55A13649}|Fawry Rise Journey Challenge.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A6031-402C-44DB-910A-E4FF55A13649}|Fawry Rise Journey Challenge.csproj|c:\\users\\malakamr740\\source\\repos\\fawry rise journey challenge\\shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A6031-402C-44DB-910A-E4FF55A13649}|Fawry Rise Journey Challenge.csproj|solutionrelative:shippingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C16A6031-402C-44DB-910A-E4FF55A13649}|Fawry Rise Journey Challenge.csproj|c:\\users\\malakamr740\\source\\repos\\fawry rise journey challenge\\ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C16A6031-402C-44DB-910A-E4FF55A13649}|Fawry Rise Journey Challenge.csproj|solutionrelative:ishippable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T23:02:50.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IShippable.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\IShippable.cs",
+              "RelativeDocumentMoniker": "IShippable.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\IShippable.cs",
+              "RelativeToolTip": "IShippable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T22:17:27.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\Cart.cs",
+              "RelativeDocumentMoniker": "Cart.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\Cart.cs",
+              "RelativeToolTip": "Cart.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAAADMAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T22:15:44.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ECommerceSystem.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\ECommerceSystem.cs",
+              "RelativeDocumentMoniker": "ECommerceSystem.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\ECommerceSystem.cs",
+              "RelativeToolTip": "ECommerceSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T19:24:36.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShippingService.cs",
+              "DocumentMoniker": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\ShippingService.cs",
+              "RelativeDocumentMoniker": "ShippingService.cs",
+              "ToolTip": "C:\\Users\\MalakAmr740\\source\\repos\\Fawry Rise Journey Challenge\\ShippingService.cs",
+              "RelativeToolTip": "ShippingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T22:16:13.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

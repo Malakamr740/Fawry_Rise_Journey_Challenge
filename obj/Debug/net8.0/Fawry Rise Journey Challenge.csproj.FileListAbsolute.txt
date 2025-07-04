@@ -1,0 +1,14 @@
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\bin\Debug\net8.0\Fawry Rise Journey Challenge.exe
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\bin\Debug\net8.0\Fawry Rise Journey Challenge.deps.json
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\bin\Debug\net8.0\Fawry Rise Journey Challenge.runtimeconfig.json
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\bin\Debug\net8.0\Fawry Rise Journey Challenge.dll
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\bin\Debug\net8.0\Fawry Rise Journey Challenge.pdb
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\obj\Debug\net8.0\Fawry Rise Journey Challenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\obj\Debug\net8.0\Fawry Rise Journey Challenge.AssemblyInfoInputs.cache
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\obj\Debug\net8.0\Fawry Rise Journey Challenge.AssemblyInfo.cs
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\obj\Debug\net8.0\Fawry Rise Journey Challenge.csproj.CoreCompileInputs.cache
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\obj\Debug\net8.0\Fawry Rise Journey Challenge.dll
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\obj\Debug\net8.0\refint\Fawry Rise Journey Challenge.dll
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\obj\Debug\net8.0\Fawry Rise Journey Challenge.pdb
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\obj\Debug\net8.0\Fawry Rise Journey Challenge.genruntimeconfig.cache
+C:\Users\MalakAmr740\source\repos\Fawry Rise Journey Challenge\obj\Debug\net8.0\ref\Fawry Rise Journey Challenge.dll
